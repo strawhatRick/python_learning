@@ -12,3 +12,10 @@ members = ""
 for group in musical_groups:
     members = ", ".join(group)
     print(members)
+# Your code here
+#members = ""
+#for group in musical_groups:
+#    members = ", ".join(group)
+#    sl = len(members.split(", "))
+#    if sl == 3:
+#    	print(members)
